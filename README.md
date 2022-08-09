@@ -1,10 +1,11 @@
 # Terminal
-Task for terminal lesson
-## And... _some_ **useful** **_tips_**
+
+## Task for terminal lesson
 
 [link to full list](https://app.monstercampaigns.com/c/jg9u9k0by4lj9pvcjeso/)
 
-Linux commands
+### Linux commands
+
 1. pwd - to get full adress of directory you´re in
 2. cd - change directory (subdirectory == just a name; another directory == full path)
   * ¨..¨ up
@@ -58,19 +59,3 @@ tab == autofill
 ctrl+c - to stop command; +z - to pause
 ctrl+s - freeze terminal; +q unfreeze
 ctrl+a - to the beginning of the line; +e to the end
-
-# _new_ **text** 
-and _a list_:
-* one
-* two
-* three
-  * four
-  * five
-
-
-![picture](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJVRtUwQ2dM8vkj9oGl6EXYmVhMFU0MLrpKTx-Ou2BfpdYtod1EFA_hGRy09y4NPBGHYk&usqp=CAU)
-
-..
-..
-
-[a fiord link](https://vk.com/fiord)
